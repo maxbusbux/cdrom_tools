@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "creating unpack folder"
+sleep 1
+mkdir unpack
+sleep 1
+7z x iso/cdrom.iso -ounpack/

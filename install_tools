@@ -1,0 +1,3 @@
+#/bin/bash
+echo "installing tools"
+sudo apt install p7zip-full openssl 
