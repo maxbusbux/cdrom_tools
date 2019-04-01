@@ -1,1 +1,0 @@
-openssl enc -aes-256-cbc -d -in enc/iso.enc -out iso/decrypted_cdrom.iso
