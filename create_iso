@@ -17,4 +17,4 @@ echo "making iso ... "
 sleep 1
 mkisofs -o iso/cdrom.iso data
 sleep 1 
-
+echo "image written to iso/ directory"
