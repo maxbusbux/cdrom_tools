@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "cleaning old files ..."
 sleep 1 
-rm -rf data/* && rm -rf iso/*
+rm -rf data/ && rm -rf iso/
