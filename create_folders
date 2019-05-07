@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Creating folders"
+mkdir data & mkdir iso & mkdir unpack & mkdir enc
