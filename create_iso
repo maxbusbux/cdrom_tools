@@ -1,10 +1,4 @@
 #!/bin/bash
-echo "Creating folders ..."
-mkdir data && mkdir iso
-echo "Creating mount point  ..."
-sleep 1 
-sudo mkdir /mnt/cdrom
-sleep 1
 echo "mounting cdrom ..."
 sleep 1
 sudo mount /dev/sr0 /mnt/cdrom
